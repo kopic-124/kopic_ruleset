@@ -1,58 +1,48 @@
-{\rtf1\ansi\ansicpg950\cocoartf2867
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww33060\viewh18600\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+#!name= Loon-appleintelligence
 
-\f0\fs24 \cf0 #!name= Loon-AppleInteligenceFliter\
-\
-#!desc= apple intetligence\
-\
-#!openurl=\
-\
-#!author= KOPIC\
-\
-#!homepage=\
-\
-#!icon= \
-\
-#!select = \
-\
-#!select = \
-\
-\
-#!tag =\uc0\u20998 \u27969 \
-\
-[Argument]\
-\
-[General]\
-\
-bypass-tun =\
-\
-skip-proxy =\
-\
-real-ip =\
-\
-dns-server =\
-\
-[rule]\
-\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+#!desc= iphone apple inteligence gpt filter
 
-\f1\fs26 \cf0 DOMAIN-SUFFIX,apple-relay.apple.com,proxy\
-DOMAIN-SUFFIX,apple-relay.fastly-edge.com,proxy\
-DOMAIN-SUFFIX,apple-relay.cloudflare.com,proxy\
-DOMAIN-SUFFIX,gateway.icloud.com,proxy\
-DOMAIN-SUFFIX,guzzoni.apple.com,proxy\
-DOMAIN-SUFFIX,cp4.cloudflare.com,proxy\
-DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,proxy\
-DOMAIN-SUFFIX,apps.mzstatic.com,proxy
-\f0\fs24 \
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
-\cf0 [rewrite]\
-\
-[host]\
-\
-[script]\
-\
-[mitm]}
+#!openurl=
+
+#!author= 
+
+#!homepage=
+
+#!icon= 
+
+#!select = 
+
+#!select = 
+
+
+#!tag =分流
+
+[Argument]
+
+[General]
+
+bypass-tun =
+
+skip-proxy =
+
+real-ip =
+
+dns-server =
+
+[rule]
+DOMAIN-SUFFIX,apple-relay.apple.com,Proxy
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com,Proxy
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,Proxy
+DOMAIN-SUFFIX,gateway.icloud.com,Proxy
+DOMAIN-SUFFIX,guzzoni.apple.com,Proxy
+DOMAIN-SUFFIX,cp4.cloudflare.com,Proxy
+DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,Proxy
+DOMAIN-SUFFIX,apps.mzstatic.com,Proxy
+
+[rewrite]
+
+[host]
+
+[script]
+
+[mitm]
