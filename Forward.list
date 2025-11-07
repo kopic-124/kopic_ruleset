@@ -6,6 +6,22 @@
 #danmu
 DOMAIN-SUFFIX,dandanplay.net
 
+#porn系列模块
+DOMAIN-KEYWORD,leyue
+DOMAIN-KEYWORD,javday
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-KEYWORD,btc620
+DOMAIN-KEYWORD,killcovid2021
+DOMAIN-KEYWORD,cdn77
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,javrate.com
+DOMAIN-SUFFIX,b-cdn.net
+
 #影视数据源
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,media-imdb.com
