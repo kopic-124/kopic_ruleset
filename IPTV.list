@@ -4,11 +4,11 @@
 # UPDATED: 2025-11-07 11:21:00
 # DESCRIPTION: IPTV 自用
 
-- DOMAIN-KEYWORD,aktv
-- DOMAIN-SUFFIX,filegear-sg.me
-- DOMAIN-SUFFIX,3a.ink
-- DOMAIN-SUFFIX,tii.lat
-- DOMAIN-SUFFIX,gh-proxy.com
+DOMAIN-KEYWORD,aktv
+DOMAIN-SUFFIX,filegear-sg.me
+DOMAIN-SUFFIX,3a.ink
+DOMAIN-SUFFIX,tii.lat
+DOMAIN-SUFFIX,gh-proxy.com
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
