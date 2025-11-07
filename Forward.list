@@ -3,13 +3,6 @@
 # REPO: https://github.com/kopic-124/kopic_ruleset/
 # UPDATED: 2025-11-07
 
-DOMAIN,graph.facebook.com
-DOMAIN-SUFFIX,bintray.com
-DOMAIN-SUFFIX,whatsapp.biz
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,whatsapp
-
 #danmu
 DOMAIN-SUFFIX,dandanplay.net
 
