@@ -1,0 +1,48 @@
+# NAME: Forward 
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/ 
+# UPDATED: 2025-11-07 11:21:00
+
+#danmu
+DOMAIN-SUFFIX,dandanplay.net
+#porn系列模块
+DOMAIN-KEYWORD,javday
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-KEYWORD,btc620
+DOMAIN-KEYWORD,killcovid2021
+DOMAIN-KEYWORD,cdn77
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,mushroomtrack.com
+DOMAIN-SUFFIX,javrate.com
+DOMAIN-SUFFIX,b-cdn.net
+#影视数据源
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,media-imdb.com
+DOMAIN-SUFFIX,tmdb.org
+#vod模块
+DOMAIN-SUFFIX,heimuer.tv
+DOMAIN-SUFFIX,dytt8vip.com
+DOMAIN-SUFFIX,imgzy360.com
+DOMAIN-SUFFIX,iill.top
+#预告封面
+DOMAIN-SUFFIX,googlevideo.com
+#infiniteapi
+DOMAIN-SUFFIX,malaysla.com
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,nivod4.tv
+DOMAIN-SUFFIX,ulivetv.net
+DOMAIN-SUFFIX,efhie.com
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,ceres9350.com
+
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,185.222.222.222/32,no-resolve
+IP-CIDR,208.67.222.222/32,no-resolve
+IP-CIDR,208.67.220.220/32,no-resolve
