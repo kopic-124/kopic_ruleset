@@ -1,0 +1,42 @@
+#!name= Loon-EmbyCN
+#!desc= iphone apple inteligence gpt filter
+
+#!openurl=
+
+#!author= kopic-124
+
+#!homepage=
+
+#!icon= 
+
+#!select = 
+
+#!select = 
+
+
+#!tag =分流
+
+[Argument]
+
+[General]
+
+bypass-tun =
+
+skip-proxy =
+
+real-ip =
+
+dns-server =
+
+[rule]
+DOMAIN-SUFFIX,4k520.cn,Proxy
+DOMAIN-SUFFIX,vo0.site,Proxy
+DOMAIN-SUFFIX,handoumedia.top,Proxy
+DOMAIN-SUFFIX,ccppc.cn,Proxy
+[rewrite]
+
+[host]
+
+[script]
+
+[mitm]
