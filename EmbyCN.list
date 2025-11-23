@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,vo0.site
 DOMAIN-SUFFIX,micu.hk
 DOMAIN-SUFFIX,handoumedia.top
 DOMAIN-SUFFIX,ccppc.cn
-
+DOMAIN-SUFFIX,204cloud.com
 
 IP-CIDR,123.45.67.89/32,no-resolve
 IP-CIDR,98.76.54.32/32,no-resolve
