@@ -1,0 +1,10 @@
+{
+  "name": "Forward icon self-service upload",
+  "description": "by kopic",
+  "icons": [
+    {
+      "name": "natgeo",
+      "url": "https://raw.githubusercontent.com/kopic-124/kopic_ruleset/refs/heads/main/cropped-bf_ng_icon_favicon_rgb.png"
+    }
+  ]
+}
