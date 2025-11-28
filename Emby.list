@@ -5,5 +5,3 @@
 # DESCRIPTION: Emby🪜 自用
 
 DOMAIN-SUFFIX,yepfast.cc,🎬 EMBY
-
-IP-CIDR,198.51.100.23/32,no-resolve
