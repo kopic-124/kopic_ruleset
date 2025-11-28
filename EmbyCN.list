@@ -4,14 +4,9 @@
 # UPDATED: 2025-11-07 11:21:00
 # DESCRIPTION: Emby直连 自用
 
-DOMAIN-SUFFIX,4k520.cn
-DOMAIN-SUFFIX,vo0.site
-DOMAIN-SUFFIX,micu.hk
-DOMAIN-SUFFIX,handoumedia.top
-DOMAIN-SUFFIX,ccppc.cn
-DOMAIN-SUFFIX,204cloud.com
-
-IP-CIDR,123.45.67.89/32,no-resolve
-IP-CIDR,98.76.54.32/32,no-resolve
-IP-CIDR,203.0.113.11/32,no-resolve
-IP-CIDR,192.0.2.50/32,no-resolve
+DOMAIN-SUFFIX,4k520.cn,直连
+DOMAIN-SUFFIX,vo0.site,直连
+DOMAIN-SUFFIX,micu.hk,直连
+DOMAIN-SUFFIX,handoumedia.top,直连
+DOMAIN-SUFFIX,ccppc.cn,直连
+DOMAIN-SUFFIX,204cloud.com,直连
