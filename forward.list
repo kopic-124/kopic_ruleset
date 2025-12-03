@@ -4,7 +4,7 @@
 # UPDATED: 2025-11-07 11:21:00
 # DESCRIPTION: Forward模块必要分流
 
-DOMAIN-SUFFIX,xiguashe.xyz,🚀 默认代理
+
 #danmu
 DOMAIN-SUFFIX,dandanplay.net,🚀 默认代理
 #porn系列模块
@@ -41,3 +41,4 @@ DOMAIN-SUFFIX,efhie.com
 DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,ceres9350.com
 
+DOMAIN-SUFFIX,xiguashe.xyz
