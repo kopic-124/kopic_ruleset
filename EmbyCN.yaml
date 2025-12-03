@@ -1,0 +1,12 @@
+# NAME: EmbyCN.yaml
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/ 
+# UPDATED: 2025-11-07 11:21:00
+# DESCRIPTION: Emby直连 自用yaml
+
+
+payload:
+- '.4k520.cn'
+- '.vo0.site'
+- '.ccppc.cn'
+- '.204cloud.com'
