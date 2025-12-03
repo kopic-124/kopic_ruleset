@@ -1,0 +1,13 @@
+# NAME: IPTV.yaml
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/ 
+# UPDATED: 2025-11-07 11:21:00
+# DESCRIPTION: IPTV 自用yaml
+
+
+payload:
+- '.filegear-sg.me'
+- '.3a.ink'
+- '.tii.lat'
+- '.gh-proxy.com'
+- '.stream-link.org'
