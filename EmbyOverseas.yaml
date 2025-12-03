@@ -1,0 +1,9 @@
+# NAME: EmbyOverseas.yaml
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/ 
+# UPDATED: 2025-11-07 11:21:00
+# DESCRIPTION: Emby 自用yaml
+
+
+payload:
+- '.yepfast.cc'
