@@ -1,0 +1,20 @@
+# NAME: forward.yaml
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/ 
+# UPDATED: 2025-11-07 11:21:00
+# DESCRIPTION: forward 自用yaml
+
+payload:
+- '.dandanplay.net'
+- '.imdb.com'
+- '.media-imdb.com'
+- '.tmdb.org'
+- '.googlevideo.com'
+- '.malaysla.com'
+- '.biggggg.com'
+- '.nivod4.tv'
+- '.ulivetv.net'
+- '.efhie.com'
+- '.newpppp.com'
+- '.ceres9350.com'
+- '.xiguashe.xyz'
