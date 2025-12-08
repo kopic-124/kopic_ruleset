@@ -1,0 +1,12 @@
+# NAME: iptvSG.yaml
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/iptvSG.yaml
+# UPDATED: 2025-11-07 11:21:00
+# DESCRIPTION: IPTV-sg 自用yaml
+
+
+payload:
+- '.stream-link.org'
+- '.astro'
+- '.wavve'
+- '.starhubgo.com'
