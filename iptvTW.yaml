@@ -1,0 +1,13 @@
+# NAME: iptvTW.yaml
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/iptvTW.yaml
+# UPDATED: 2025-11-07 11:21:00
+# DESCRIPTION: IPTV-hk 自用yaml
+
+
+payload:
+- '.cdn.hinet.net'
+- '.hinet.net'
+- '.4gtv.tv'
+- '.api2.4gtv.tv'
+- '.ofiii.com'
