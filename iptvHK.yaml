@@ -1,0 +1,14 @@
+# NAME: iptvHK.yaml
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/iptvHK.yaml
+# UPDATED: 2025-11-07 11:21:00
+# DESCRIPTION: IPTV-hk 自用yaml
+
+
+payload:
+- '.tvb.com'
+- '.edgeware.tvb.com'
+- '.hrtn.net'
+- '.qichiyu.com'
+- 'passwdword.xyz'
+- 'lioncdn.net'
