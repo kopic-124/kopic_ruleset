@@ -6,7 +6,7 @@
 
 
 #danmu
-DOMAIN-SUFFIX,dandanplay.net,🚀 默认代理
+DOMAIN-SUFFIX,dandanplay.net
 #porn系列模块
 DOMAIN-KEYWORD,javday
 DOMAIN-SUFFIX,pornhub.com
@@ -41,4 +41,5 @@ DOMAIN-SUFFIX,efhie.com
 DOMAIN-SUFFIX,newpppp.com
 DOMAIN-SUFFIX,ceres9350.com
 
-DOMAIN-SUFFIX,xiguashe.xyz
+DOMAIN-KEYWORD,xiguashe
+DOMAIN-KEYWORD,leyue
