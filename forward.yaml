@@ -43,3 +43,8 @@ DOMAIN-SUFFIX,ceres9350.com
 
 DOMAIN-KEYWORD,xiguashe
 DOMAIN-KEYWORD,leyue
+# LAN bypass to avoid routing private networks through proxy
+- IP-CIDR,10.0.0.0/8,no-resolve
+- IP-CIDR,172.16.0.0/12,no-resolve
+- IP-CIDR,192.168.0.0/16,no-resolve
+- IP-CIDR,127.0.0.0/8,no-resolve
