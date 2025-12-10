@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,vo0.site,Proxy
 DOMAIN-SUFFIX,handoumedia.top,Proxy
 DOMAIN-SUFFIX,ccppc.cn,Proxy
 DOMAIN-SUFFIX,204cloud.com,Proxy
+DOMAIN-SUFFIX,baiyingtongcai.com,Proxy
+DOMAIN-SUFFIX,supermoka.com,Proxy
 
 [rewrite]
 
