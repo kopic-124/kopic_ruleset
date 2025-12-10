@@ -1,0 +1,20 @@
+# NAME: EmbyCN 
+# AUTHOR: kopic-124 
+# REPO: https://github.com/kopic-124/kopic_ruleset/ 
+# UPDATED: 2025-11-07 11:21:00
+# DESCRIPTION: Emby直连 自用
+
+- DOMAIN-SUFFIX,4k520.cn
+- DOMAIN-SUFFIX,vo0.site
+- DOMAIN-SUFFIX,micu.hk
+- DOMAIN-SUFFIX,handoumedia.top
+- DOMAIN-SUFFIX,ccppc.cn
+- DOMAIN-SUFFIX,204cloud.com
+- DOMAIN-KEYWORD,supermoka
+- DOMAIN-KEYWORD,outdog
+
+# LAN bypass to avoid routing private networks through proxy
+- IP-CIDR,10.0.0.0/8,no-resolve
+- IP-CIDR,172.16.0.0/12,no-resolve
+- IP-CIDR,192.168.0.0/16,no-resolve
+- IP-CIDR,127.0.0.0/8,no-resolve
