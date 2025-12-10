@@ -1,0 +1,41 @@
+#!name= Loon-proxy-custom
+#!desc= Loon PROXY CUSTOM
+
+#!openurl=
+
+#!author= kopic-124
+
+#!homepage=
+
+#!icon= 
+
+#!select = 
+
+#!select = 
+
+
+#!tag =分流
+
+[Argument]
+
+[General]
+
+bypass-tun =
+
+skip-proxy =
+
+real-ip =
+
+dns-server =
+
+[rule]
+DOMAIN-SUFFIX,baiyingtongcai.com,Proxy
+DOMAIN-SUFFIX,supermoka.com,Proxy
+
+[rewrite]
+
+[host]
+
+[script]
+
+[mitm]
