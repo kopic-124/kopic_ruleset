@@ -3,7 +3,7 @@
 # REPO: https://github.com/kopic-124/kopic_ruleset/ 
 # UPDATED: 2025-11-07 11:21:00
 # DESCRIPTION: Emby直连 自用
-
+payload:
 - DOMAIN-SUFFIX,4k520.cn
 - DOMAIN-SUFFIX,vo0.site
 - DOMAIN-SUFFIX,micu.hk
