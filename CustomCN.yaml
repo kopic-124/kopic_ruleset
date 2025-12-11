@@ -7,11 +7,11 @@ payload:
 - DOMAIN-SUFFIX,4k520.cn
 - DOMAIN-SUFFIX,vo0.site
 - DOMAIN-SUFFIX,micu.hk
-- DOMAIN-SUFFIX,handoumedia.top
 - DOMAIN-SUFFIX,ccppc.cn
 - DOMAIN-SUFFIX,204cloud.com
-- DOMAIN-KEYWORD,supermoka
-- DOMAIN-KEYWORD,outdog
+- DOMAIN-SUFFIX,supermoka.com
+- DOMAIN-SUFFIX,outdog.fun
+- DOMAIN-SUFFIX,baiyingtongcai.com
 
 # LAN bypass to avoid routing private networks through proxy
 - IP-CIDR,10.0.0.0/8,no-resolve
