@@ -1,0 +1,47 @@
+#!name= Loon-EmbyCN
+#!desc= EmbyCN 直连
+
+#!openurl=
+
+#!author= kopic-124
+
+#!homepage=
+
+#!icon= 
+
+#!select = 
+
+#!select = 
+
+
+#!tag =分流
+
+[Argument]
+
+[General]
+
+bypass-tun =
+
+skip-proxy =
+
+real-ip =
+
+dns-server =
+
+[rule]
+DOMAIN-SUFFIX,4k520.cn,Dir_proxy
+DOMAIN-SUFFIX,vo0.site,Dir_proxy
+DOMAIN-SUFFIX,handoumedia.top,Dir_proxy
+DOMAIN-SUFFIX,ccppc.cn,Dir_proxy
+DOMAIN-SUFFIX,204cloud.com,Dir_proxy
+DOMAIN-SUFFIX,baiyingtongcai.com,Dir_proxy
+DOMAIN-SUFFIX,supermoka.com,Dir_proxy
+DOMAIN-SUFFIX,outdog.fun,Proxy
+
+[rewrite]
+
+[host]
+
+[script]
+
+[mitm]
