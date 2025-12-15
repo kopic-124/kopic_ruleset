@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,ccppc.cn,PROXY
 DOMAIN-SUFFIX,204cloud.com,PROXY
 DOMAIN-SUFFIX,baiyingtongcai.com,PROXY
 DOMAIN-SUFFIX,supermoka.com,PROXY
-DOMAIN-SUFFIX,outdog.fun,PROXY
+
 [rewrite]
 
 [host]
