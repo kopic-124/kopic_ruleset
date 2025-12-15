@@ -29,13 +29,13 @@ real-ip =
 dns-server =
 
 [rule]
-DOMAIN-SUFFIX,4k520.cn,PROXY
-DOMAIN-SUFFIX,vo0.site,PROXY
-DOMAIN-SUFFIX,handoumedia.top,PROXY
-DOMAIN-SUFFIX,ccppc.cn,PROXY
-DOMAIN-SUFFIX,204cloud.com,PROXY
-DOMAIN-SUFFIX,baiyingtongcai.com,PROXY
-DOMAIN-SUFFIX,supermoka.com,PROXY
+DOMAIN-SUFFIX,4k520.cn,proxy
+DOMAIN-SUFFIX,vo0.site,proxy
+DOMAIN-SUFFIX,handoumedia.top,proxy
+DOMAIN-SUFFIX,ccppc.cn,proxy
+DOMAIN-SUFFIX,204cloud.com,proxy
+DOMAIN-SUFFIX,baiyingtongcai.com,proxy
+DOMAIN-SUFFIX,supermoka.com,proxy
 
 [rewrite]
 
